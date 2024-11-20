@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jaden! <br/><a href="https://github.com/JadenF75">Programmer</a>, <a href="https://www.linkedin.com/in/jadenf">Computer Science</a>, <a href="https://www.youtube.com/@JadenOrSk">YouTuber</a></h1>
+<h1>Hi, I'm Jaden! <br/><a href="https://github.com/JadenF75">Programmer</a>, <a href="https://www.linkedin.com/in/jadenf">Cyber Security</a>, <a href="https://www.youtube.com/@JadenOrSk">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
